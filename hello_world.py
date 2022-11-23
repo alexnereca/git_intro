@@ -1,4 +1,4 @@
-# This is a very useless script that says "hello world"
-# It's great.
+# This is a most useless script that says "hello world"
+# It's horrible.
 
 print("hello world")
